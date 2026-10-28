@@ -1,2 +1,8 @@
 fonttools==4.67.0
+ipython
+ipywidgets
+matplotlib
+networkx
+numpy
 pypdf==6.21.1
+sortedcontainers
