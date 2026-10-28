@@ -1,0 +1,10 @@
+Palavra-chave: 'zzqxw' | limite: 5 paginas por PDF
+
+Algoritmo                 Pastas   Lidos  FalsosPos   Tempo(ms)   Pico(KB)
+Agente Logico (KB)             2       4          4       24934     208032
+   encontrado: None
+   pastas podadas: 8 | ASKs: 52 | montagem da KB: 39 ms
+Busca Cega (BFS)              11      62         62       99162     215026
+   encontrado: None
+A* Tradicional (nome)         11      62         62      103263     221524
+   encontrado: None
