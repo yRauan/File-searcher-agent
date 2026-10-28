@@ -40,7 +40,6 @@ File-searcher-agent/
 │   ├── buscas.py            # BFS, DFS, UCS e A* (varredura e busca por nome)
 │   ├── busca_conteudo.py    # busca no conteúdo (UCS e A*) e extração de texto
 │   ├── metricas.py          # medição de tempo e memória
-│   ├── relatorios.py        # exibição dos resultados no terminal
 │   ├── kb.py                # KnowledgeBase com tell() e ask()
 │   ├── mapeamento.py        # varredura de metadados (etapa 1)
 │   ├── mapeamento_fol.py    # fatos e regras de primeira ordem (etapa 2)
